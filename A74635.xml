@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A generall advertisement for the better observing and keeping of our monthly fast, commanded by His Majesty and both Houses of Parlimeut [sic]. And for the better ordering of innes, tavernes, ale-houses, and all manner victualling houses, and the like. That thereby this fast being kept from all manner of disorder, wee may happily attaine to true peace and quietnesse, and the grace of God, for which it was instituted.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74635</idno>
+            <idno type="STC">Thomason E128_22</idno>
+            <idno type="STC">ESTC R22969</idno>
+            <idno type="EEBO-CITATION">99871875</idno>
+            <idno type="PROQUEST">99871875</idno>
+            <idno type="VID">156247</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74635)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156247)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E128[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A generall advertisement for the better observing and keeping of our monthly fast, commanded by His Majesty and both Houses of Parlimeut [sic]. And for the better ordering of innes, tavernes, ale-houses, and all manner victualling houses, and the like. That thereby this fast being kept from all manner of disorder, wee may happily attaine to true peace and quietnesse, and the grace of God, for which it was instituted.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Novemb. 28. London, Printed for John Hanson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Possibly another edition of Wing E1550.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasting --  Early works to 1800.</term>
+               <term>Hospitality industry --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156247:1"/>
+            <pb facs="tcp:156247:1" rendition="simple:additions"/>
+            <p> A Generall ADVERTISEMENT For the better obſerving and keeping of our monthly Faſt, commanded by His Majeſty and both Houſes of <hi>Parliment.</hi>
+            </p>
+            <p>And for the better ordering of Innes, Tavernes, Ale-houſes, and all manner Victualling houſes, and the like.</p>
+            <p>That thereby this Faſt being kept from all manner of Diſorder, wee may hap<g ref="char:EOLhyphen"/>pily attaine to true peace and quietneſſe, and the Grace of God, for which it was inſtitu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed.</p>
+            <p>
+               <hi>Novemb.</hi> 28.</p>
+            <p>
+               <hi>London,</hi> Printed for JOHN Hanſon. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156247:2"/>
+            <pb facs="tcp:156247:2"/>
+            <head>A generall Advertiſement for the better ob<g ref="char:EOLhyphen"/>ſerving of our monthly Faſt.</head>
+            <p>FOR the better obſerving and keeping of this our great and Generall Faſt, commanded by His Majeſty and both Houſes of Parliament, for the generall good of the whole Kingdome, in which is found much neglect by many ſorts of people to the great diſhonour and diſobeying His Majeſties Command, and the Command of both Houſes of Parliament herein.</p>
+            <p>It is thought fit and requiſite therefore, that all Good Chriſtians and true Subjects, of what nature ſoever, that are Houſholders, to order themſelves and their affaires, ſo that upon that day or dayes wherein they are commanded to faſt, they have not any let or hindrance to withdraw them from ſo good a worke, but for that time or times to lay a<g ref="char:EOLhyphen"/>ſide all manner of worldly affaires, and tend onely to the ſervice of God, and to be carefull to ſee that their Children, Servants, and all ſuch as be under their charge, may truly and duely, keeping the Church, hearing Divine Service and Sermons, abſtaining from all manner of Fleſh, or delicious
+<pb facs="tcp:156247:3"/> meats, and likewiſe from all manner of vices or any thing that is contrary to the keeping of a tru<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> faſt, or may any waies hinder our deuotion or draw us from the true ſervice of God, To the breach of the command of his Majeſty and both the Honorable Houſes of Parliament.</p>
+            <p>and for the better underſtanding of the true faſt is that as I had ſaid before, we muſt firſt abſtain from fleſh and all maner of Delitious meats; hot wines, or ſtrong drinke or the like, whereby the fleſh is pampred and made high, that many times it rebels againſt the ſpirit, cauſing in us a neglect of the ſer<g ref="char:EOLhyphen"/>uice of God, and carleſnes of our duty towards out parents, and Prince, or regardleſſe of the loue we ought to beare to our neighbour, and make us more apt daily and hourly to run into all manner of viees which is the cauſe that at ſueh times of faſt we ought to abſtane from fleſh not for that it is hurtfull to the body to eate, but hurtfull for the ſoule, in that we are hereby drawne into temtati<g ref="char:EOLhyphen"/>ons and ſo herehy looſe the benefit thereof which is the grace and fauour of God, for when are men more apt to ſinn then in the heate of fleſh the heate of blood, and the like.</p>
+            <p>Then if we will faſt from ſinn as we pretend let us firſt faſt from the cauſers of ſinn which is deli<g ref="char:EOLhyphen"/>tious meats, hot drincks and the like as I ſaid be<g ref="char:EOLhyphen"/>fore and by that doing we may with out doubt the better faſt from ſinn and ſo faſting from ſinn, gain the grace and faiuor of almighty God his eternall
+<pb facs="tcp:156247:3"/> love, and in love of our Neighbor which are the things required of us in this Faſt, it is good alſo that all Innes, Tavernes, and Alehouſes be more ſtrictly lookt un<g ref="char:EOLhyphen"/>to, and that they be not ſuffered on theſe dayes appointed for Faſt, to open their doores to let in any company to drinke, more then upon neceſſity, as to Strangers, Travellers, or the like.</p>
+            <p>For it hath beene obſerved and noted, that many diſorders have been and daily are ſeene in this Faſt, commitred by di<g ref="char:EOLhyphen"/>vers people on thoſe dayes, as extraordi<g ref="char:EOLhyphen"/>nary eating, drinking, ſwearing, and di<g ref="char:EOLhyphen"/>vers other abuſes or abſurdities, not fit<g ref="char:EOLhyphen"/>ting the time, nor indeed not fitting any time, eſpecially upon ſuch a time as we are commanded to offer to God the ſa<g ref="char:EOLhyphen"/>crifice of our hearts, by Faſting and Ptayer, which are workes to bee done with a true and ſincere devotion, in a godly and moſt Chriſtian-like way,
+<pb facs="tcp:156247:4"/> ſuppreſſing our wonted untam'd wills, and not to run on headlong, not minding what wee goe about and like bruit beaſts make all dayes and times alike, which is no faſt at all.</p>
+            <p>Therefore if wee meane hereby to gaine the Grace and Favour of God, the love of our King and Parliament, and our owne generall good; Let us obey their Commandements, and if comman<g ref="char:EOLhyphen"/>ded to fight, let us faſt; if to pray, let us pray, but in this we are ſtrictly commanded to faſt and pray not for the good and benefit of them in particular, but for the generall good and benefit of the whole Kingdome, the eſtabliſhing of the true faith, and the obtaining of true peace and unity amongſt us all.</p>
+            <p>For which we are commanded to offer to Al<g ref="char:EOLhyphen"/>mighty God in recompence of our diſobedience to his eternall Maieſty every month a day, and that day to be ſeriouſly kept according to the promiſes it being not ſufficient, as is afore ſaid, to faſt all day and to feaſt at night, or to faſt all day and to be drunke at night, as too many in this City and Kingdome doth, but we endeavour to keepe it du<g ref="char:EOLhyphen"/>ly and truly, not violating and prophaning any part of it, but that the night as well as the day being obſerved from all manner of vices, dedicating our ſelves for that time wholly to the ſervice of God, otherwiſe it is no Faſt at all, but a deceiving of our ſelves, and a robbing of God of his Honour and
+<pb facs="tcp:156247:4"/> Glory, for which it was inſtituted and comman<g ref="char:EOLhyphen"/>ded.</p>
+            <p>Surely we have more need to offer to God eve<g ref="char:EOLhyphen"/>ry weeke a day, and every day an houre to be ſpent in prayer and good workes, whereby to appeaſe the wrath and anger of God, which we are ſo daily like to fall upon us in this dangerous time of war, being altogether uncertaine how long wee ſhall live, or how ſoone we ſhall be cut off; therefore if we duly conſider with our ſelves the dangers that wee now live in, we ſhall finde that we never had more neede to Faſt and pray then now.</p>
+            <p>Wherefore let us all with one aſſent ſubmit our ſelves to His Majeſties iuſt Command, and the iuſt Command of both Houſes of Parliament, in the true keeping of this great and generall Firſt, as a worke of piety, craving the aid and aſſiſtance of Almighty God herein, that we may the better diſ<g ref="char:EOLhyphen"/>poſe our ſelves thereto, to His honour and glory, and ſo doing there is no queſtion but wee ſhall thereby gaine the Grace of God with his love and Fauour in all that we deſire a true unity betweene Mis Maieſty and the Parliament, an eſtabliſhment of the Lawes Spirituall and Temporall, the abo<g ref="char:EOLhyphen"/>liſhing warre, and the ſetling of peace throughout the whole Kingdome, Almighty God grant it.</p>
+            <closer>Amen.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="poem">
+            <lg>
+               <pb facs="tcp:156247:5"/>
+               <l>Wheres quiet pe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce
+<lb type="caesura"/>there God alone abides,</l>
+               <l>Wheres wrath and anger,
+<lb type="caesura"/>nought but miſchiefe rides,</l>
+               <l>Wheres Love and Friendſhip,
+<lb type="caesura"/>goodneſſe doth remaine,</l>
+               <l>VVheres hate and envie
+<lb type="caesura"/>diſcord there doth raigne;</l>
+               <l>VVhere Neighbours love,
+<lb type="caesura"/>and loving all love God,</l>
+               <l>There will true happineſſe
+<lb type="caesura"/>finde in that Land abode,</l>
+               <l>VVhich here in <hi>England</hi>
+                  <lb type="caesura"/>I wiſh may increaſe,</l>
+               <l>All reſt, repoſe, content
+<lb type="caesura"/>and quiet peace.</l>
+               <l>Then Faſt and pray,
+<lb type="caesura"/>all Diſcords to ſuppreſſe,</l>
+               <l>Serve God each day
+<lb type="caesura"/>and live in happineſſe.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
